@@ -1,5 +1,5 @@
 Para rodar scripts .pl
-'''bash
+```bash
 $ swipl <nome_do_script.pl>
-'''
+```
 
